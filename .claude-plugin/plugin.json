@@ -1,0 +1,10 @@
+{
+  "name": "k-saas",
+  "version": "0.1.0",
+  "description": "Last-mile skills for shipping a SaaS in Korea: pre-launch security audit, production guard, Toss payments, Kakao/Naver login, privacy docs, PG review, launch check.",
+  "author": { "name": "shipit_now", "url": "https://github.com/abehan7" },
+  "homepage": "https://github.com/abehan7/k-saas-skills",
+  "repository": "https://github.com/abehan7/k-saas-skills",
+  "license": "MIT",
+  "keywords": ["saas", "security", "supabase", "rls", "korea", "toss", "kakao", "launch"]
+}
